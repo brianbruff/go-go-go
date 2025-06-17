@@ -1,0 +1,14 @@
+# Compiled binaries
+*.so
+go-go-math-engine/go-go-math-engine
+
+# Go module files
+go.sum
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
