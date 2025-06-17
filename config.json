@@ -1,0 +1,12 @@
+{
+  "operations": [
+    {
+      "name": "add",
+      "path": "../go-go-math-op-add/add.so"
+    },
+    {
+      "name": "multiply", 
+      "path": "../go-go-math-op-multiply/multiply.so"
+    }
+  ]
+}
